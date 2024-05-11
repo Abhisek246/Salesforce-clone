@@ -834,7 +834,7 @@ span{
     .social-icons i{
         font-size: 1.5rem;
     }
-    .salesforce i, .contact{
+    .salesforce i, .contact, .video{
         display: none;
     }
 }
